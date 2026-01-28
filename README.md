@@ -1,6 +1,7 @@
 ⚔️ Dungeon Adventure Game
 A classic console-based RPG (Role-Playing Game) developed in Java. Navigate through dangerous dungeons, engage in turn-based combat, and build the ultimate hero.
 
+
 📝 Overview
 This project is a text-based adventure that focuses on the core mechanics of RPGs: exploration, strategy, and character progression. It serves as an excellent demonstration of Object-Oriented Programming (OOP) principles such as inheritance, encapsulation, and polymorphism within a game loop.
 
@@ -22,6 +23,8 @@ Architecture: Clean OOP design
 
 Interface: CLI (Command Line Interface)
 
+
+
 🎮 How to Play
 Start the Game: Launch the application and enter your character's name.
 
@@ -33,6 +36,8 @@ Fight: Use the on-screen prompts to attack, defend, or use items during combat.
 
 Survive: Keep an eye on your HP! The goal is to delve as deep as possible without falling in battle.
 
+
+
 🏗 Project Structure
 src/ — Contains all .java source files.
 
@@ -41,6 +46,8 @@ Characters/ — Classes for Hero and Monster logic.
 Combat/ — Mechanics for handling damage calculation and turn order.
 
 Items/ — Loot and consumable items logic.
+
+
 
 🗺 Roadmap
 [ ] Add a Save/Load system using File I/O.
